@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FAFAFA;
+}
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.h2 {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
